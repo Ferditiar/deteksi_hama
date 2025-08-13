@@ -16,7 +16,7 @@ if ROOT not in sys.path:
     sys.path.append(str(ROOT))
 
 # Folder utama
-IMAGES_DIR = ROOT / 'images'
+IMAGES_DIR = ROOT / 'Images'
 VIDEOS_DIR = ROOT / 'videos'
 MODEL_DIR = ROOT / 'weights'
 
